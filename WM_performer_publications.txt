@@ -134,6 +134,8 @@ In: Proceedings of the 13th International Workshop on Semantic Evaluation.
 June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
 https://www.aclweb.org/anthology/S19-2232/
 
+Verdin A; C. Funk; P. Peterson, M. Landsfeld, C. Tuholske, K. Grace; Development and validation of the CHIRTS-daily quasi-global high-resolution daily temperature dataset. 2020 (In Review)
+
 Vu, B., C. Knoblock, and J. Pujara, D-REPR: A Language for Describing and Mapping Diversely-Structured Data 
 Sources to RDF, in K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture. 
 https://dl.acm.org/doi/10.1145/3360901.3364449
